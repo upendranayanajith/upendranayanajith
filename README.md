@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @upendranayanajith
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+student+of+(SLIIT);Code+is+poetry,+and+I'm+the+poet;Bugs+eater)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+student+of+SLIIT;Code+is+poetry,+and+I'm+the+poet;Bugs+eater)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++, Java, PHP, HTML, CSS, Javascript
