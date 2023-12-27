@@ -1,6 +1,6 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       
 - 👋 Hi, I’m @upendranayanajith
 
