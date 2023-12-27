@@ -1,6 +1,6 @@
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="50%" style="border: none; padding: 10px;">
       
 - 👋 Hi, I’m @upendranayanajith
 
@@ -13,8 +13,8 @@
 - 📫 How to reach me ...
 
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github.com/upendranayanajith/upendranayanajith/assets/86357888/acfafd3c-29c7-42b1-801e-3d6d8b710809" width="350" height="350">
+    <td valign="top" width="50%" style="border: none; padding: 10px;">
+      <img src="https://github.com/upendranayanajith/upendranayanajith/assets/86357888/acfafd3c-29c7-42b1-801e-3d6d8b710809" width="300" height="300" style="display: block;">
     </td>
   </tr>
 </table>
