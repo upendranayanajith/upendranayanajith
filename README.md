@@ -8,6 +8,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## yogitocat gif:
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/yogitocat.png' width='300"'>
+<br>
+<br>
+
 <!---
 upendranayanajith/upendranayanajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
