@@ -1,6 +1,6 @@
 <table style="border: none;">
   <tr>
-    <td valign="top" width="75%">
+    <td valign="top" width="65%">
       
 - 👋 Hi, I’m @upendranayanajith
 
@@ -14,7 +14,7 @@
 
     </td>
     <td valign="top" width="50%">
-      <img src="https://github.com/upendranayanajith/upendranayanajith/assets/86357888/acfafd3c-29c7-42b1-801e-3d6d8b710809" width="300" height="300">
+      <img src="https://github.com/upendranayanajith/upendranayanajith/assets/86357888/acfafd3c-29c7-42b1-801e-3d6d8b710809" width="350" height="350">
     </td>
   </tr>
 </table>
