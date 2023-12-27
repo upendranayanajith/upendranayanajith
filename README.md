@@ -8,7 +8,7 @@
     <p>💞️ I’m looking to collaborate on ...</p>
     <p>📫 How to reach me ...</p>
   </div>
-  <div>
+  <div style="display: relative">
     <!-- Your image -->
     <img src="https://github.com/upendranayanajith/upendranayanajith/assets/86357888/acfafd3c-29c7-42b1-801e-3d6d8b710809" width="300" height="300">
   </div>
